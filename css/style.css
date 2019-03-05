@@ -59,17 +59,17 @@ body {
 }
 
 .bili-footer .footer-wrp {
-  background-color: #f6f9fa;
+  background-color: #444546b5;
   padding-top: 40px;
   padding-bottom: 60px
 }
 
 .bili-footer a {
-  color: #222
+  color: #a99a9ad9
 }
 
 .bili-footer a:hover {
-  color: #00a1d6
+  color: #fff;
 }
 .bili-footer .icons-footer.icons-footer-report {
   display: inline-block;
